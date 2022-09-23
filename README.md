@@ -1,2 +1,2 @@
 # Pb_Asses-1
-*Just a HTML Assessments, the 1st one.*
+*Nothing exciting just the HTML Assignments, and this is the 1st one.*
